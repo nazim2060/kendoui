@@ -1,2 +1,2 @@
 # kendoui
-How we code using kendo ui for jQuery. Please use these code snippets when developing websites.
+The sole purpose of this documentation is to maintain a standard coding style when developing web applications using kendo ui for jQuery.
