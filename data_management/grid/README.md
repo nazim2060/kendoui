@@ -1,3 +1,20 @@
+# Kendo UI Grid for jQuery
+
+Kendo UI Grid is a powerful control for displaying data in a tabular format. It is powerful because it has so many built-in powerful features, such as:
+1. run CRUD operation with just 4 API's
+2. export data natively in Excel and PDF format
+3. paging, sorting, filtering, grouping
+4. search panel, checkbox selection, aggregates, frozen columns, column menu, and templating
+5. Incorporate external kendo ui components, such as: sparklines, barchart, badge etc. and many more....
+
+https://demos.telerik.com/kendo-ui/grid/index
+
+## Kendo UI Grid has 4 core parts:
+1. Model: This is where you declare the schema. You can think of it as a duplicate of Mongoose Schema. In the `Model` you declare the unique/primary key field, then the fileds and field types that the grid will receive from the server.
+2. Columns
+3. DataSource
+4. Initialize the Grid
+
 # Rule of Thumb!
 ## When we are using kendo grid, we will always make sure of the followings:
 
